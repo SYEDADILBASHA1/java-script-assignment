@@ -197,6 +197,8 @@ export default class ToDoList {
 }
 ```
 # output:
-![alt text](output.png)
+![output](https://github.com/user-attachments/assets/8fd96fc2-c017-4e63-9ddd-50c8fc752235)
+
+
 # Result:
 Thus,fully functional To-Do-List application using ES6 JavaScript was executed successfuly.
